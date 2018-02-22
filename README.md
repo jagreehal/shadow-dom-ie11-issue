@@ -1,5 +1,7 @@
 ## Repo for bug for shadow dom issue for IE11 (again)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jagreehal/shadow-dom-ie11-issue.svg)](https://greenkeeper.io/)
+
 Stencil error replicating https://github.com/mdn/web-components-examples/tree/master/slotchange
 
 This error happens when running this [demo](http://jagreehal.github.io/shadow-dom-ie11-issue/index.html) in IE11
