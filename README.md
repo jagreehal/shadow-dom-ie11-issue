@@ -8,8 +8,4 @@ See the demo running here
 
 ![IE 11 error](ie11-error.png)
 
-IE error video
-![IE 11 error](ie11-error.mp4)
-
-Chrome OK video
-![Chrome OK](chrome-ok.mp4)
+See the files 'ie11-error.mp4' and 'chrome-ok.mp4' for video examples.
