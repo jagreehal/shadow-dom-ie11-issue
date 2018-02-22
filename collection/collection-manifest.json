@@ -1,0 +1,28 @@
+{
+  "components": [
+    {
+      "tag": "dynamic-slot",
+      "dependencies": [],
+      "componentClass": "DynamicSlot",
+      "componentPath": "components/dynamic-slot/dynamic-slot.js",
+      "styles": {},
+      "states": [
+        {
+          "name": "items"
+        },
+        {
+          "name": "selectedIndex"
+        }
+      ],
+      "hostElement": {
+        "name": "el"
+      },
+      "shadow": true
+    }
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "0.6.5",
+    "typescriptVersion": "2.7.2"
+  }
+}
